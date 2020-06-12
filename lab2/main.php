@@ -1,7 +1,7 @@
 <?php
 session_start();
-include 'E:\trash\OSPanel\domains\lab3\data.php';
-include 'E:\trash\OSPanel\domains\lab3\data.php';
+include '..\data.php';
+include '..\data.php';
 $login = $_POST['login'];
 $password = $_POST['password'];
 
